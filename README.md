@@ -15,6 +15,8 @@ This session introduces basic concepts of git such as commits, repositories, and
 - [View presentation](https://raw.githack.com/DevInnovationLab/trainings-public/main/git/intro-to-git.html)
 - [View session folder](https://github.com/DevInnovationLab/git-training/tree/main/lyrics)
 
+Hello
+
 ## GitHub Pull Requests
 
 This session introduces GitHub features for collaboration such as issues and pull requests.
