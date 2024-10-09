@@ -21,6 +21,7 @@ This session introduces GitHub features for collaboration such as issues and pul
 
 - [View presentation](https://raw.githack.com/DevInnovationLab/trainings-public/main/git/pull-request.html)
 - [View session folder](https://github.com/DevInnovationLab/git-training/tree/main/texts)
+- Hi
 
 ---
 
