@@ -1,12 +1,14 @@
 # DIL Git and GitHub training
-# Learining 
+# Learning 
 Self taught
-Luiza the best teacher  
+Luiza the bestest teacher  
 
 Peris 
 This repository contains the files used for internal training on Git and GitHub
 
 ## Just messing around
+
+- Bye
 
 ## Intro to Git
 
@@ -14,6 +16,8 @@ This session introduces basic concepts of git such as commits, repositories, and
 
 - [View presentation](https://raw.githack.com/DevInnovationLab/trainings-public/main/git/intro-to-git.html)
 - [View session folder](https://github.com/DevInnovationLab/git-training/tree/main/lyrics)
+
+Hello
 
 ## GitHub Pull Requests
 
