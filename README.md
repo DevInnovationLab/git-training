@@ -1,7 +1,7 @@
 # DIL Git and GitHub training
-# Learining 
+# Learning 
 Self taught
-Luiza the best teacher  
+Luiza the bestest teacher  
 
 Peris 
 This repository contains the files used for internal training on Git and GitHub
