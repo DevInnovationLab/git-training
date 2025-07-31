@@ -20,6 +20,7 @@ This session introduces basic concepts of git such as commits, repositories, and
 - [View session folder](https://github.com/DevInnovationLab/git-training/tree/main/lyrics)
 
 Hello
+hi:)
 
 ## GitHub Pull Requests
 
