@@ -27,3 +27,12 @@ And when I'm back in Chicago, I feel it
 Another version of me, I was in it
 Oh, I wave goodbye to the end of beginning
 (Goodbye, goodbye)
+
+You take the man out of the city, not the city out the man
+You take the man out of the city, not the city out the man
+You take the man out of the city, not the city out the man
+You take the man out of the-
+  And when I'm back in Chicago, I feel it
+Another version of me, I was in it
+Oh, I wave goodbye to the end of beginning
+(Goodbye, goodbye)
