@@ -25,6 +25,7 @@ This session introduces basic concepts of git such as commits, repositories, and
 Hello
 hi:)
 what's up?
+hi, himyar was here
 
 ## GitHub Pull Requests
 
