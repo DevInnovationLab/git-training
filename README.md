@@ -1,6 +1,7 @@
 # DIL Git and GitHub training
 
 # Learning by doing fan!  :) 
+:) :(
 
 Self taught
 Luiza the bestest teacher  
