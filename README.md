@@ -1,12 +1,15 @@
 # DIL Git and GitHub training
 
 # Learning by doing fan!  :) 
+:) :(
 
 Self taught
 Luiza the bestest teacher  
 
 Peris 
 This repository contains the files used for internal training on Git and GitHub
+
+# Hello Luiza x2x3
 
 ## Just messing around
 
@@ -22,6 +25,7 @@ This session introduces basic concepts of git such as commits, repositories, and
 Hello
 hi:)
 what's up?
+hi, himyar was here
 
 ## GitHub Pull Requests
 
