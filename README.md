@@ -5,6 +5,7 @@ any changes
 more changes
 Self taught
 Luiza the bestest teacher  
+Greetings from Colombia!
 
 Peris 
 This repository contains the files used for internal training on Git and GitHub
