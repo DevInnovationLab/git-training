@@ -11,7 +11,7 @@ Self taught
 Luiza the bestest teacher  
 Greetings from Colombia!
 
-Peris 
+Peris
 This repository contains the files used for internal training on Git and GitHub
 
 ## Hello Luiza x2x3
@@ -22,7 +22,7 @@ This repository contains the files used for internal training on Git and GitHub
 
 ## Intro to Git
 
-This session introduces basic concepts of git such as commits, repositories, and branches and shows how to work on git through GitHub Desktop. 
+This session introduces basic concepts of git such as commits, repositories, and branches and shows how to work on git through GitHub Desktop.
 
 - [View presentation](https://raw.githack.com/DevInnovationLab/trainings-public/main/git/intro-to-git.html)
 - [View session folder](https://github.com/DevInnovationLab/git-training/tree/main/lyrics)
