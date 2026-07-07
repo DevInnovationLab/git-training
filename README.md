@@ -1,6 +1,9 @@
 # DIL Git and GitHub training
+
 any changes
-# Learning by doing fan!  :) 
+
+## Learning by doing fan!  :)
+
 :) :(
 margaret is making changes!!!:))))))<3
 more changes
@@ -11,7 +14,7 @@ Greetings from Colombia!
 Peris 
 This repository contains the files used for internal training on Git and GitHub
 
-# Hello Luiza x2x3
+## Hello Luiza x2x3
 
 ## Just messing around
 
@@ -40,5 +43,3 @@ This session introduces GitHub features for collaboration such as issues and pul
 ---
 
 HTML presentations were created using [reveal.js](https://github.com/hakimel/reveal.js/)
-
-
