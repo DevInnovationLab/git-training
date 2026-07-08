@@ -7,11 +7,13 @@ any changes
 Hi everyone! David's update here :)
 
 :) :(
+# mark changes 
 margaret is making changes!!!:))))))<3
 more changes
 Self taught
 Luiza the bestest teacher  
 Greetings from Colombia!
+
 
 Peris
 This repository contains the files used for internal training on Git and GitHub
