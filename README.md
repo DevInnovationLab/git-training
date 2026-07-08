@@ -4,7 +4,7 @@ any changes
 
 ## Learning by doing fan!  :)
 
-Hi everyone! David's update here
+Hi everyone! David's update here :)
 
 :) :(
 margaret is making changes!!!:))))))<3
