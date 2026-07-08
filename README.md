@@ -4,13 +4,18 @@ any changes
 
 ## Learning by doing fan!  :)
 
+Hi everyone! David's update here :)
+Hi everyone, Sumiran here.
+Hi everyone, Mark here.
 :) :(
+
 margaret is making changes!!!:))))))<3
 more changes
 Self taught
 Luiza the bestest teacher  
 Greetings from Colombia!
 Hello hello
+
 
 Peris
 This repository contains the files used for internal training on Git and GitHub
