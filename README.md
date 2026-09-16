@@ -7,6 +7,7 @@ any changes
 Hi everyone! David's update here :)
 Hi everyone, Sumiran here.
 Hi everyone, Mark here.
+Holaaa, Andrea here! <3 n.n 
 :) :(
 
 margaret is making changes!!!:))))))<3
@@ -28,7 +29,7 @@ This is Ayush
 
 ## Just messing around
 
-- Bye
+- Bye,Tschuss 
 
 ## Intro to Git
 
