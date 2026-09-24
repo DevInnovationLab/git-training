@@ -18,7 +18,6 @@ Luiza the bestest teacher
 Greetings from Colombia!
 Hello hello
 
-
 Peris
 This repository contains the files used for internal training on Git and GitHub
 
