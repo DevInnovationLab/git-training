@@ -30,7 +30,8 @@ This is Ayush
 
 ## Just messing around
 
-- Bye,Tschuss 
+- Bye,Tschuss
+- Hiiii, Tschuss
 
 ## Intro to Git
 
