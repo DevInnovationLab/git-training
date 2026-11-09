@@ -8,6 +8,7 @@ any changes
 ## Learning by doing fan!  :)
 
 Hi, Allen this side!
+This is Thomas!
 
 Hi everyone! David's update here :)
 Hi everyone, Sumiran here.
