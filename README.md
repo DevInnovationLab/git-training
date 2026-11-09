@@ -1,10 +1,5 @@
 # DIL Git and GitHub training
 
-
-# change from inside
-
-any changes
-
 ## Learning by doing fan!  :)
 
 Hi, Allen this side!
