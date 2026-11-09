@@ -2,7 +2,7 @@
 
 ## Learning by doing fan!  :)
 
-Hi, Allen this side!
+Hi, Allen this side! TESTING TESTING
 This is Thomas!
 
 Hi everyone! David's update here :)
